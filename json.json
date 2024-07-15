@@ -1,0 +1,72 @@
+[
+  {
+    "Id": 1,
+    "Name": "Anusha Sunkara",
+    "Gender": 0,
+    "Dateofbirth": "2024-07-14T08:02:21.425Z",
+    "IsEnrolled": true,
+    "Gpa": 0.0,
+    "Courses": [
+      "string"
+    ]
+  },
+  {
+    "Id": 2,
+    "Name": "Harshitha Yerra",
+    "Gender": 0,
+    "Dateofbirth": "2024-07-14T08:02:21.425Z",
+    "IsEnrolled": true,
+    "Gpa": 0.0,
+    "Courses": [
+      "string"
+    ]
+  },
+  {
+    "Id": 3,
+    "Name": "Karishma",
+    "Gender": 1,
+    "Dateofbirth": "2002-09-18T00:00:00",
+    "IsEnrolled": true,
+    "Gpa": 3.4,
+    "Courses": [
+      "Social",
+      "English"
+    ]
+  },
+  {
+    "Id": 4,
+    "Name": "Abhinav",
+    "Gender": 0,
+    "Dateofbirth": "2002-06-20T00:00:00",
+    "IsEnrolled": false,
+    "Gpa": 3.7,
+    "Courses": [
+      "Social",
+      "Biology"
+    ]
+  },
+  {
+    "Id": 5,
+    "Name": "Madhulika",
+    "Gender": 1,
+    "Dateofbirth": "2003-06-16T00:00:00",
+    "IsEnrolled": true,
+    "Gpa": 2.9,
+    "Courses": [
+      "Chemistry",
+      "English"
+    ]
+  },
+  {
+    "Id": 6,
+    "Name": "Priya Srinivas",
+    "Gender": 0,
+    "Dateofbirth": "2002-11-14T00:00:00",
+    "IsEnrolled": true,
+    "Gpa": 4.4,
+    "Courses": [
+      "maths",
+      "science"
+    ]
+  }
+]
